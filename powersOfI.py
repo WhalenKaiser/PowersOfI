@@ -1,4 +1,5 @@
 import unittest
+import powersOfI_test
 
 def pofi(n):
     if n % 4 == 0:
